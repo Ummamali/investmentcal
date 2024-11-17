@@ -4,7 +4,7 @@ The **Investment Calculator** is a user-friendly web application designed to hel
 
 ---
 
-<img src="./public/preview.jpg" width={400}/>
+<img src="./public/preview.jpg" style='max-width: 300px;'/>
 
 ## 🛠️ Technologies Used
 
