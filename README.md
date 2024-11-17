@@ -2,9 +2,9 @@
 
 The **Investment Calculator** is a user-friendly web application designed to help users forecast their investments over time. By entering key details like initial investment, yearly contributions, expected return rate, and investment duration, users can calculate potential returns for the next **N** years.
 
----
-
 <img src="./public/preview.jpg" style='max-width: 300px;'/>
+
+---
 
 ## 🛠️ Technologies Used
 
